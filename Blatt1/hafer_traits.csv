@@ -1,0 +1,7 @@
+Sample,Variety,Treatment,Batch
+Sample1,A,Control,1
+Sample2,A,Stress,1
+Sample3,A,Control,2
+Sample4,B,Stress,2
+Sample5,B,Control,1
+Sample6,B,Stress,2
